@@ -6,7 +6,7 @@ import requests
 import random
 from _tugma import *
 logging.basicConfig(level=logging.INFO)
-bot =   Bot(token="5860263373:AAE03XMh6fAHM24weeez3OW6rorwRzC_Q_w")
+bot =   Bot(token="5860263373:AAGfShT7P4YDb3A8caV5QbKwZ3HICQfqdbU")
 dp = Dispatcher(bot)
 db = Database('database.db')
 admin = 693313498
